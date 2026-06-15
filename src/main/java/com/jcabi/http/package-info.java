@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: Copyright (c) 2011-2025 Yegor Bugayenko
+ * SPDX-FileCopyrightText: Copyright (c) 2011-2026 Yegor Bugayenko
  * SPDX-License-Identifier: MIT
  */
 
@@ -9,7 +9,7 @@
  * <p>The only dependency you need is (check our latest version available
  * at <a href="http://www.rexsl.com">www.rexsl.com</a>):
  *
- * <pre>&lt;depedency&gt;
+ * <pre>&lt;dependency&gt;
  *   &lt;groupId&gt;com.rexsl&lt;/groupId&gt;
  *   &lt;artifactId&gt;rexsl-test&lt;/artifactId&gt;
  * &lt;/dependency&gt;</pre>

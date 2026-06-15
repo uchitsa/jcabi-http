@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: Copyright (c) 2011-2025 Yegor Bugayenko
+ * SPDX-FileCopyrightText: Copyright (c) 2011-2026 Yegor Bugayenko
  * SPDX-License-Identifier: MIT
  */
 package com.jcabi.http.response;
@@ -22,7 +22,7 @@ import lombok.EqualsAndHashCode;
  * JSON response.
  *
  * <p>This response decorator is able to parse HTTP response body as
- * a JSON document and manipulate with it afterwords, for example:
+ * a JSON document and manipulate with it afterwards, for example:
  *
  * <pre> String name = new JdkRequest("http://my.example.com")
  *   .header(HttpHeaders.ACCEPT, MediaType.APPLICATION_JSON)

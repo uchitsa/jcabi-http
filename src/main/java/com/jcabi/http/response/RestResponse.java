@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: Copyright (c) 2011-2025 Yegor Bugayenko
+ * SPDX-FileCopyrightText: Copyright (c) 2011-2026 Yegor Bugayenko
  * SPDX-License-Identifier: MIT
  */
 package com.jcabi.http.response;
@@ -26,7 +26,7 @@ import org.hamcrest.Matchers;
  * REST response.
  *
  * <p>This response decorator is able to make basic assertions on
- * HTTP response and manipulate with it afterwords, for example:
+ * HTTP response and manipulate with it afterwards, for example:
  *
  * <pre> String name = new JdkRequest("http://my.example.com")
  *   .fetch()

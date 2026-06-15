@@ -1,5 +1,5 @@
 /*
- * SPDX-FileCopyrightText: Copyright (c) 2011-2025 Yegor Bugayenko
+ * SPDX-FileCopyrightText: Copyright (c) 2011-2026 Yegor Bugayenko
  * SPDX-License-Identifier: MIT
  */
 package com.jcabi.http;
@@ -88,6 +88,18 @@ public interface Request {
      * PATCH method name.
      */
     String PATCH = "PATCH";
+
+    /**
+     * TRACE method name.
+     * @since 2.0
+     */
+    String TRACE = "TRACE";
+
+    /**
+     * CONNECT method name.
+     * @since 2.0
+     */
+    String CONNECT = "CONNECT";
 
     /**
      * Get destination URI.
